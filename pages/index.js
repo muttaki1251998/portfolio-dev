@@ -3,11 +3,9 @@ import PropTypes from "prop-types";
 const Navigation = dynamic(() => import("../components/Navigation"));
 const Greetings = dynamic(() => import("../containers/Greetings"));
 const Skills = dynamic(() => import("../containers/Skills"));
-const Proficiency = dynamic(() => import("../containers/Proficiency"));
 const Education = dynamic(() => import("../containers/Education"));
 const Experience = dynamic(() => import("../containers/Experience"));
 const Projects = dynamic(() => import("../containers/Projects"));
-const Feedbacks = dynamic(() => import("../containers/Feedbacks"));
 const GithubProfileCard = dynamic(() =>
 	import("../components/GithubProfileCard")
 );
@@ -19,19 +17,17 @@ export default function Home({ githubProfileData }) {
 		<div>
 			<SEO
 				data={{
-					title: "Hanzla Tauqeer",
+					title: "Muhammad Muttaki",
 					description:
-						"A passionate Full Stack Web Developer and Mobile App Developer.",
-					image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-					url: "https://developer-portfolio-1hanzla100.vercel.app",
+						"A passionate Full Stack Web Developer",
 					keywords: [
-						"Hanzla",
-						"Hanzla Tauqeer",
+						"Muhammad",
+						"Muhammad Tauqeer",
 						"@1hanzla100",
 						"1hanzla100",
 						"Portfolio",
-						"Hanzla Portfolio ",
-						"Hanzla Tauqeer Portfolio",
+						"Muhammad Portfolio ",
+						"Muhammad Muttaki Portfolio",
 						"web developer",
 						"full stack",
 						"full stack web developer",
@@ -52,10 +48,8 @@ export default function Home({ githubProfileData }) {
 			<Navigation />
 			<Greetings />
 			<Skills />
-			<Proficiency />
 			<Education />
 			<Experience />
-			<Feedbacks />
 			<Projects />
 			<GithubProfileCard prof={githubProfileData} />
 		</div>

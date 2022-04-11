@@ -31,21 +31,9 @@ const ExperienceCard = ({ data }) => {
 						)}
 					</Color>
 					<CardBody className="py-5">
-						<div
-							className="bg-white rounded-circle mb-3 img-center img-fluid shadow-lg "
-							style={{ width: "100px", height: "100px" }}
-						>
-							<Image
-								src={data.companylogo}
-								width={"100px"}
-								height={"100px"}
-								alt={data.companylogo}
-							/>
-						</div>
 						<CardTitle tag="h5">{data.role}</CardTitle>
 						<CardSubtitle>{data.date}</CardSubtitle>
 						<CardText className="description my-3 text-left">
-							{data.desc}
 							<ul>
 								{data.descBullets
 									? data.descBullets.map((desc) => {

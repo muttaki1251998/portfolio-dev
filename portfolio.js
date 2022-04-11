@@ -1,40 +1,40 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-	name: "Hanzla Tauqeer",
-	title: "Hi all, I'm Hanzla",
+	name: "Muhammad Muttaki",
+	title: "Hi, I'm Muhammad",
 	description:
-		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
-	resumeLink: "https://cv.hanzla.ga",
+		"A Full Stack Web Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Angularjs and some other cool libraries and frameworks.",
+	resumeLink: "https://drive.google.com/file/d/1LoERF7qw1d4jKFEv3znqXgBp6iqiGlDW/view?usp=sharing",
 };
 
 export const openSource = {
-	githubUserName: "1hanzla100",
+	githubUserName: "muttaki1251998",
 };
 
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/1hanzla100",
-	instagram: "https://www.instagram.com/1hanzla100",
-	twitter: "https://twitter.com/1hanzla100",
-	github: "https://github.com/1hanzla100",
-	linkedin: "https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/",
+	facebook: "https://www.facebook.com/don.khan.54540/",
+	instagram: "https://www.instagram.com/_muttaki22/",
+	twitter: "https://twitter.com/muttaki_khan",
+	github: "https://github.com/muttaki1251998",
+	linkedin: "https://www.linkedin.com/in/muhammad-muttaki/",
 };
 
 export const skillsSection = {
 	title: "What I do",
 	subTitle:
-		"CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+		"DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
 	skills: [
 		emoji(
-			"⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+			"⚡ Develop highly interactive Front end / User Interfaces for your web applications"
 		),
 		emoji(
 			"⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"
 		),
 		emoji(
-			"⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+			"⚡ Integration of third party services such as Firebase or Docker"
 		),
 	],
 
@@ -68,14 +68,6 @@ export const skillsSection = {
 			fontAwesomeClassname: "logos:nodejs-icon",
 		},
 		{
-			skillName: "flutter",
-			fontAwesomeClassname: "logos:flutter",
-		},
-		{
-			skillName: "swift",
-			fontAwesomeClassname: "vscode-icons:file-type-swift",
-		},
-		{
 			skillName: "npm",
 			fontAwesomeClassname: "vscode-icons:file-type-npm",
 		},
@@ -86,10 +78,6 @@ export const skillsSection = {
 		{
 			skillName: "mongoDB",
 			fontAwesomeClassname: "vscode-icons:file-type-mongo",
-		},
-		{
-			skillName: "aws",
-			fontAwesomeClassname: "logos:aws",
 		},
 		{
 			skillName: "firebase",
@@ -110,109 +98,69 @@ export const skillsSection = {
 	],
 };
 
-export const SkillBars = [
-	{
-		Stack: "Frontend/Design", //Insert stack or technology you have experience in
-		progressPercentage: "90", //Insert relative proficiency in percentage
-	},
-	{
-		Stack: "Backend",
-		progressPercentage: "70",
-	},
-	{
-		Stack: "Programming",
-		progressPercentage: "60",
-	},
-];
-
 export const educationInfo = [
 	{
-		schoolName: "Harvard University",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
-		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-		],
-	},
-	{
-		schoolName: "Harvard",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
-		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-		],
-	},
-	{
-		schoolName: "Stanford University",
-		subHeader: "Bachelor of Science in Computer Science",
-		duration: "September 2013 - April 2017",
-		desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-		descBullets: [
-			"Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit",
-		],
-	},
+		schoolName: "University of Guelph",
+		subHeader: "Bachelor's of Science in Computer Science",
+		duration: "September 2019 - April 2022",
+	}
 ];
 
 export const experience = [
 	{
 		role: "Software Engineer",
-		company: "Google",
+		company: "IFS",
 		companylogo: "/img/icons/common/google.svg",
-		date: "June 2018 – Present",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		date: "Jan 2022 – Present",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Working on the front-end with Angular and React  for multiple projects",
+			"Developed various unit tests with Jasmine  for their aviation maintenance software",
+			"Working on the backend with Nodejs to develop various validators",
+			"Collaborating with senior developers to come up with solutions",
+			"Working with JIRA for tickets and Bitbucket for version control"
 		],
 	},
 	{
-		role: "Front-End Developer",
-		company: "Github",
-		companylogo: "/img/icons/common/github.svg",
-		date: "May 2017 – May 2018",
-		desc: "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		role: "Software Developer Intern",
+		company: "We3 Inc.",
+		companylogo: "/img/icons/common/google.svg",
+		date: "Sept 2021 – Dec 2021",
+		descBullets: [
+			"Working with a team of three developers to maintain and update the We3 app that is on both Google and IOS app store.",
+			"Working with Ionic-React on the front-end and Node and Postgres on the backend.",
+			"Developed a new testing tool in JavaScript and Node.js that tests various edge cases before code gets pushed to the repo which reduced overall testing time by 90%.",
+		],
 	},
 	{
-		role: "Software Engineer Intern",
-		company: "Airbnb",
-		companylogo: "/img/icons/common/airbnbLogo.png",
-		date: "Jan 2015 – Sep 2015",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-	},
+		role: "Web developer Intern",
+		company: "Ride Cycle",
+		companylogo: "/img/icons/common/github.svg",
+		date: "May 2021 – Aug 2021",
+		descBullets: [
+			"Collaborated remotely across a team of 4 developers for zero-to-prod initiatives.",
+			"Developed and maintained the back-end server with Node.js and MongoDB  for a new booking system.",
+			"Developed the front-end with React, react-redux and react-hooks.",
+			"Tested site in various browsers and devices to ensure cross-browser compatibility and mobile reponsiveness"
+		]
+	}
 ];
 
 export const projects = [
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		link: "https://example.com",
+		name: "Feedbacker",
+		desc: "Feedback collecting web app made with React, React-redux and Node.js. The backend  manages Google OAuth with passport, mongoDB and sending email with sendgrid. ",
+		link: "https://stark-headland-72911.herokuapp.com/",
+		github: "https://github.com/muttaki1251998/Feedbacker"
 	},
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
+		name: "GitHub Profiler",
+		desc: "Made with Next.js and Styled components where a github user can see a summary of their profile. Used chat.js to style the charts. All the user needs to do is enter their username and it will fetch all the information.",
+		link: "https://vast-garden-88678.herokuapp.com/",
+		github: "https://github.com/muttaki1251998/GitProfiles"
 	},
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
-		link: "https://example.com",
-	},
-];
-
-export const feedbacks = [
-	{
-		name: "Hassan Mehmood",
-		feedback:
-			"We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Hanzla tauqeer has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
-	},
-	{
-		name: "Maheen Altaf",
-		feedback:
-			"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
+		name: "File Decryptor",
+		desc: "Taking inputs from files in binary format and then converting it to strings with C using Linked lists. Using the chi-square formula, the program decodes the encrypted string and writes the human readable string to a new file.",
+		github: "https://github.com/muttaki1251998/File_Decryptor"
 	},
 ];
