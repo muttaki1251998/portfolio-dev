@@ -5,7 +5,7 @@ export const greetings = {
 	title: "Hi, I'm Muhammad",
 	description:
 		"A Full Stack Web Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Angularjs and some other cool libraries and frameworks.",
-	resumeLink: "https://drive.google.com/file/d/1LoERF7qw1d4jKFEv3znqXgBp6iqiGlDW/view?usp=sharing",
+	resumeLink: "https://drive.google.com/file/d/10PzYlXkz6S5-PDuKfE6o5RSRk_I1wpho/view?usp=sharing",
 };
 
 export const openSource = {
@@ -102,7 +102,7 @@ export const educationInfo = [
 	{
 		schoolName: "University of Guelph",
 		subHeader: "Bachelor's of Science in Computer Science",
-		duration: "September 2019 - April 2022",
+		duration: "September 2019 - April 2023",
 	}
 ];
 
@@ -113,11 +113,11 @@ export const experience = [
 		companylogo: "/img/icons/common/google.svg",
 		date: "Jan 2022 – Present",
 		descBullets: [
-			"Working on the front-end with Angular and React  for multiple projects",
-			"Developed various unit tests with Jasmine  for their aviation maintenance software",
-			"Working on the backend with Nodejs to develop various validators",
-			"Collaborating with senior developers to come up with solutions",
-			"Working with JIRA for tickets and Bitbucket for version control"
+			"Working on the front-end with Angular.js and React",
+			"Writing various unit tests with Jasmine and Jest",
+			"Working on the backend with Nodejs to develop validators and authentication",
+			"Implemented React.js on an Angular.js app to upgrade usability and development",
+			"Working on End to End tests with Protractor"
 		],
 	},
 	{
