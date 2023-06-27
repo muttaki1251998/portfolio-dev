@@ -11,8 +11,8 @@
 	},
 	"scripts": {
 		"dev": "next dev",
-		"build": "next build && next export",
-		"start": "cross-env NODE_OPTIONS='--openssl-legacy-provider' next start",
+		"start": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
+   		"build": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
 		"lint": "next lint"
 	},
 	"dependencies": {
