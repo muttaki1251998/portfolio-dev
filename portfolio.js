@@ -5,7 +5,7 @@ export const greetings = {
 	title: "Hi, I'm Muhammad",
 	description:
 		"A Full Stack Web Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Angularjs and some other cool libraries and frameworks.",
-	resumeLink: "https://drive.google.com/file/d/1y9YMC-SjG0hgeTc6UJow0WSy8OkoDfzU/view",
+	resumeLink: "https://drive.google.com/file/d/1RSRibDFR-OwWgZnhKxPuNyv16chDdjr1/view?usp=sharing",
 };
 
 export const openSource = {
