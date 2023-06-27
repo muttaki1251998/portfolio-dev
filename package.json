@@ -7,7 +7,7 @@
 	"author": "Hanzla Tauqeer",
 	"license": "MIT",
 	"engines": {
-		"node": "v20.3.1"
+		"node": "18.x"
 	},
 	"scripts": {
 		"dev": "next dev",
