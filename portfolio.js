@@ -4,8 +4,8 @@ export const greetings = {
 	name: "Muhammad Muttaki",
 	title: "Hi, I'm Muhammad",
 	description:
-		"A Full Stack Web Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Angularjs and some other cool libraries and frameworks.",
-	resumeLink: "https://drive.google.com/file/d/1RSRibDFR-OwWgZnhKxPuNyv16chDdjr1/view?usp=sharing",
+		"A Full Stack Web Engineer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Angularjs and some other cool libraries and frameworks.",
+	resumeLink: "https://drive.google.com/file/d/1Db1sEAQtBQU24Cm8RJIsSDI4jbJ9y-tY/view?usp=sharing",
 };
 
 export const openSource = {
@@ -121,7 +121,7 @@ export const experience = [
 		],
 	},
 	{
-		role: "Software Developer Intern",
+		role: "Full Stack Mobile Developer",
 		company: "We3 Inc.",
 		companylogo: "/img/icons/common/google.svg",
 		date: "Sept 2021 – Dec 2021",
@@ -147,15 +147,15 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "Feedbacker",
-		desc: "Feedback collecting web app made with React, React-redux and Node.js. The backend  manages Google OAuth with passport, mongoDB and sending email with sendgrid. ",
-		link: "https://stark-headland-72911.herokuapp.com/",
-		github: "https://github.com/muttaki1251998/Feedbacker"
-	},
-	{
 		name: "GitHub Profiler",
 		desc: "Made with Next.js and Styled components where a github user can see a summary of their profile. Used chat.js to style the charts. All the user needs to do is enter their username and it will fetch all the information.",
-		link: "https://vast-garden-88678.herokuapp.com/",
+		link: "https://gitprofile-9cd430c60f1b.herokuapp.com/",
+		github: "https://github.com/muttaki1251998/GitProfiles"
+	},
+	
+	{	name: "Chat room",
+		desc: "Chat room app where users can join from all over the world with a username and enjoy a conversion. User A and User be needs to select the same room number to be able to chat. User can invite friends by sharing the link and room number.",
+		link: "https://chat-room-muhammad-f25a76ac9b26.herokuapp.com/",
 		github: "https://github.com/muttaki1251998/GitProfiles"
 	},
 	{
