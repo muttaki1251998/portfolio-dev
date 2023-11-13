@@ -111,7 +111,7 @@ export const experience = [
 		role: "Software Engineer",
 		company: "IFS",
 		companylogo: "/img/icons/common/google.svg",
-		date: "Jan 2022 – Present",
+		date: "Jan 2022 – 2023",
 		descBullets: [
 			"Working on the front-end with Angular.js and React",
 			"Writing various unit tests with Jasmine and Jest",
@@ -124,7 +124,7 @@ export const experience = [
 		role: "Full Stack Mobile Developer",
 		company: "We3 Inc.",
 		companylogo: "/img/icons/common/google.svg",
-		date: "Sept 2021 – Dec 2021",
+		date: "May 2021 – Dec 2021",
 		descBullets: [
 			"Working with a team of three developers to maintain and update the We3 app that is on both Google and IOS app store.",
 			"Working with Ionic-React on the front-end and Node and Postgres on the backend.",
@@ -135,7 +135,7 @@ export const experience = [
 		role: "Web developer Intern",
 		company: "Ride Cycle",
 		companylogo: "/img/icons/common/github.svg",
-		date: "May 2021 – Aug 2021",
+		date: "Jan 2021 – April 2021",
 		descBullets: [
 			"Collaborated remotely across a team of 4 developers for zero-to-prod initiatives.",
 			"Developed and maintained the back-end server with Node.js and MongoDB  for a new booking system.",
