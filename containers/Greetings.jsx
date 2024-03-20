@@ -36,6 +36,9 @@ const Greetings = () => {
 									<p className="lead text-white">
 										{greetings.description}
 									</p>
+									<span className="lead text-white">
+										{greetings.contact}
+									</span>
 									<SocialLinks />
 								</Col>
 								<Col lg="6">
