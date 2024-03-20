@@ -149,6 +149,12 @@ export const projects = [
     link: "https://master--next-slider-js.netlify.app/",
     github: "https://github.com/muttaki1251998/GitProfiles",
   },
+    {
+    name: "Company Landing Page demo",
+    desc: "Made with Next.js and Styled components to dislay the landing page of a digital marketing company. Used custom UI compoents and animations to make it look better.",
+    link: "https://master--company-landing-ui.netlify.app/",
+    github: "https://github.com/muttaki1251998/corpo-landing-page",
+  },
 
   {
     name: "Animated slider UI",
