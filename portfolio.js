@@ -159,7 +159,7 @@ export const projects = [
   {
     name: "Animated slider UI",
     desc: "SLiders made with NEXT.JS and Tailwind css with smooth animations designed to be reused in other projects! Can be imported to other React.js projects as well!",
-    link: "master--next-slider-js.netlify.app/",
+    link: "https://master--next-slider-js.netlify.app/",
     github: "https://github.com/muttaki1251998/next-slider",
   },
   {
