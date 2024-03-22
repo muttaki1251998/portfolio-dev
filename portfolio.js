@@ -4,7 +4,7 @@ export const greetings = {
   name: "Muhammad Muttaki",
   title: "Hi, I'm Muhammad",
   description:
-    "I am going to graduate in Summer 2024 with a Bachelor's in Computer Science. Over the years as a student, I have worked as a Full stack developer, Front-end and multiplatform native app developer. Contact me for further inquiries!",
+    "A Software engineer with tons of experience in working with frontend and backend technologies. I love React and Next JS! Feel free to reach out for anything and I will be happy to connect with you!",
   contact: "muttaki4989@gmail.com",
   resumeLink:
     "https://drive.google.com/file/d/1Db1sEAQtBQU24Cm8RJIsSDI4jbJ9y-tY/view?usp=sharing",
