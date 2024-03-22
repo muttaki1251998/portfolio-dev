@@ -146,7 +146,7 @@ export const projects = [
   {
     name: "GitHub Profiler",
     desc: "Made with Next.js and Styled components where a github user can see a summary of their profile. Used chat.js to style the charts. All the user needs to do is enter their username.",
-    link: "https://master--next-slider-js.netlify.app/",
+    link: "https://git-profiler-extended.netlify.app/",
     github: "https://github.com/muttaki1251998/GitProfiles",
   },
     {
