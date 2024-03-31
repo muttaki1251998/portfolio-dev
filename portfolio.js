@@ -118,13 +118,13 @@ export const experience = [
     ],
   },
   {
-    role: "Full Stack Mobile Developer",
+    role: "Full Stack App Developer",
     company: "We3 Inc.",
     companylogo: "/img/icons/common/google.svg",
     date: "Sept 2021 – Dec 2021",
     descBullets: [
       "Working with a team of three developers to maintain and update the We3 app that is on both Google and IOS app store.",
-      "Working with Ionic-React on the front-end and Node and Postgres on the backend.",
+      "Develop frontend UI interfaces with smooth animations for both iOS and Android",
       "Developed a new testing tool in JavaScript and Node.js that tests various edge cases before code gets pushed to the repo which reduced overall testing time by 90%.",
     ],
   },
