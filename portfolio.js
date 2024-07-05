@@ -108,7 +108,7 @@ export const experience = [
     role: "Software Engineer",
     company: "IFS",
     companylogo: "/img/icons/common/google.svg",
-    date: "Jan 2022 – June 2023",
+    date: "Jan 2022 – June 2024",
     descBullets: [
       "Working on the front-end with Angular.js and React",
       "Writing various unit tests with Jasmine and Jest",
